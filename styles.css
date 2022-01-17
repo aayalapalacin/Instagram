@@ -1,0 +1,73 @@
+body{
+    background-color: black !important;
+}
+.mybox{
+    background-color: white;
+        margin: auto;
+    width: 400px;
+}
+
+.header{
+    display: flex;
+    
+}
+
+.dots{
+    margin-left: auto;
+    margin-right: 10px; 
+    margin-top: 10px;
+}
+
+.htmlIcon{
+    margin-top: 13px;
+    margin-left: 10px;
+
+}
+
+.titles h6 {
+    margin: 5px 0px -2px 9px;
+    font-size: 13.5px;
+}
+
+
+.titles p{
+    margin: 1px 0px 6px 9px;
+    font-size:13.5px;
+}
+
+.html5{
+    margin: 10px 0px 0px 10px;
+}
+
+.image{
+    width:400px;
+    margin-top: 5px;
+}
+
+.photo{
+    width:100%;
+}
+.commentSection{
+    display: flex;
+}
+
+.actionIcons{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.iconRight{
+    margin-left: auto;
+    margin-right: 10px; 
+    margin-top: 10px;
+}
+
+ .likes p{
+     font-size: 12px;
+     margin-left: 10px;
+ }
+
+.paragraph{
+    font-size: 12px;
+    padding: 0px 10px 8px 10px;
+}
