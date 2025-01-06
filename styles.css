@@ -3,7 +3,7 @@ body{
 }
 .mybox{
     background-color: white;
-        margin: auto;
+        margin: 4% auto;
     width: 400px;
 }
 
@@ -71,3 +71,8 @@ body{
     font-size: 12px;
     padding: 0px 10px 8px 10px;
 }
+
+.roboto-condensed{
+    font-family: "Roboto Condensed", serif;
+
+  }
